@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8F5BF865-ECDF-4AFF-B2BC-7CD8877F1193}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample/MultiColorLoader.cs">
+    <Files>
+      <File FileName="Sample/ViewController.cs" Line="27" Column="42" />
+      <File FileName="Sample/MultiColorLoader.cs" Line="39" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultiColorProgressBar" expanded="True">
+            <Node name="MultiColorProgressBar" expanded="True" />
+            <Node name="Sample" expanded="True">
+              <Node name="MultiColorLoader.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A84BE647-1097-441C-BDE6-F254F9642D5C" />
+</Properties>
