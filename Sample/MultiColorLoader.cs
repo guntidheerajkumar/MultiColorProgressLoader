@@ -19,7 +19,7 @@ namespace Sample
 			this.mainView = view;
 			layerView = new UIView(this.mainView.Frame);
 			layerView.BackgroundColor = UIColor.White;
-			layerView.Layer.Opacity = 0.6f;
+			layerView.Layer.Opacity = 0.8f;
 		}
 
 		public void Start()

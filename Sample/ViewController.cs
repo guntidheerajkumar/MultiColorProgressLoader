@@ -29,7 +29,7 @@ namespace Sample
 			BtnClickMe.TouchUpInside += (sender, e) => {
 				loader.Start();
 				Task.Factory.StartNew(() => {
-					Thread.Sleep(4000);
+					Thread.Sleep(10000);
 					this.InvokeOnMainThread(() => {
 						loader.Dismiss();
 					});
